@@ -1,0 +1,47 @@
+* {
+  font-family: arial, sans-serif;
+}
+.nav li {
+  display: inline;
+}
+.pull-right {
+  margin-right: -350;
+  padding: 5px;
+  padding-top: 20px;
+}
+.pull-right li {
+  padding: 10px;
+  font-size: 13px;
+}
+.pull-right li:first-child {
+  font-family: 'Poiret One', cursive;
+}
+.title {
+  margin-left: 700px;
+  margin-top: 145px;
+}
+.title img {
+  height: 100;
+  margin-left: 120;
+}
+.search-bar {
+  border: 1px solid #e9e9e9;
+  height: 30;
+  width: 550;
+  margin-bottom: 20;
+  margin-top: 20px;
+}
+.title-btn {
+  margin-left: 90px;
+}
+.title-btn li {
+  display: inline;
+  border: 1px solid #e9e9e9;
+  padding: 7px;
+  margin:10px;
+  background-color: #e2e2e2;
+  border-radius: 3px;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 12px;
+}
